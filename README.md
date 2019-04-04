@@ -43,6 +43,6 @@ docker service logs spring-boot-sample-app_web  -f
 ```
 
 Test in :
-> curl http://localhost:8080/hi
+> curl http://localhost:8888/hi
 
 Enjoy!
